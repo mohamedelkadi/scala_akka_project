@@ -1,0 +1,657 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+43 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$2.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$3.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$delayedInit$body.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$class.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/GetUserById$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/GetUserById.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Login$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Login.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$save$1.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/User$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/User.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$$anonfun$1.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONReader$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONWriter$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$$anonfun$1.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$BSONObjectIdProtocol$.class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol.class
+binary dependencies:
+25 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/mazzika/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> /home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+43 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$$anonfun$2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$$anonfun$3
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.Api$delayedInit$body
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$5
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$8
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com.packt.akka.RestApi$class
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Created
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Created$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.GetUserById
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.GetUserById$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Login
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com.packt.akka.db.Login$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com.packt.akka.db.MongoDB
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com.packt.akka.db.MongoDB$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com.packt.akka.db.UserManager$$anonfun$save$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.User
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.User$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com.packt.akka.models.UserProtocol$$anonfun$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$UserEntityBSONReader$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntity$UserEntityBSONWriter$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$$anonfun$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com.packt.akka.models.UserEntityProtocol$BSONObjectIdProtocol$
+used names:
+358 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> $conforms
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> &
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ->
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ActorMaterializer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ActorSystem
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> AnyRef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Api
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> App
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ApplyConverter
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ConjunctionMagnet
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Console
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Created
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> DefaultJsonProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Directive
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Directives
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> EmptyValue
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> EntityFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ExecutionContext
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Future
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Http
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Join
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Map
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Marshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Materializer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> OK
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Predef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> RestApi
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> RouteResult
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingLog
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingSettings
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> RoutingSetup
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Segment
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> SprayJsonSupport
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> StatusCodes
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> StringContext
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> StringJsonFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ToResponseMarshallable
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> TupleOps
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Unmarshal
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> Unmarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> User
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserEntityProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserManager
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> UserProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> actor
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> addByNameNullaryApply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> addDirectiveApply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> apply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> as
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> bindAndHandle
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> bindingFuture
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> complete
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> concurrent
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> db
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> default
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> dispatcher
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ec
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> emptyEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> enhanceRouteWithConcatenation
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> entity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> findById
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> flatMap
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromActorSystem
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromDirective
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> fromStatusCodeAndValue
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> futureMarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> get
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> hac1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> http
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> id
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> join0P
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> json
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> login
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> map
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> mapFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> marshallers
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> marshalling
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> materializer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> messageUnmarshallerFromEntityUnmarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> model
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> models
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> name
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> onComplete
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> optionMarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> package
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> password
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> path
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> pathPrefix
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> pimpAny
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> post
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> println
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> qual$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> r
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> readLine
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> route
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> route2HandlerFlow
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> s
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> save
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> scaladsl
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> segmentStringToPathMatcher
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> server
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> shutdown
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> spray
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsValueMarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsonMarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayJsonUnmarshaller
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> sprayjson
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> stream
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> system
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> t
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> toJson
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> toUserEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> unbind
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> unmarshalling
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> user
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> util
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$10
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$11
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$12
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$13
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$14
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$15
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$16
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$17
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$18
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$19
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$20
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> x$9
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> ~
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> &&
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ==
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> AbstractFunction1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> AbstractFunction2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Created
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> GetUserById
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Login
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> None
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Predef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Product
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ScalaRunTime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> Serializable
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> String
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> _hashCode
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> _toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> asInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> db
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> eq
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> id
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> isInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> password
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> runtime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> typedProductIterator
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> username
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> ||
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> AnyRef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> ConfigFactory
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> ExecutionContext
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> Implicits
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> JavaConverters
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> MongoDB
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> MongoDriver
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> api
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> apply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> asScala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> asScalaBufferConverter
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> collection
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> concurrent
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> config
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> connection
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> database
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> db
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> driver
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> getString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> getStringList
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> global
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> load
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> reactivemongo
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> servers
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> typesafe
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ->
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> AnyRef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONCollection
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONCollectionProducer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONDocument
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONDocumentIdentity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONObjectID
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONObjectIDIdentity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> BSONStringHandler
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Count
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ExecutionContext
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> MongoDB
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Predef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> Producer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> QueryOpts
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> String
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntityBSONReader
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserEntityBSONWriter
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> UserManager
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> api
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> apply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> bson
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> collection
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> collections
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> commands
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> concurrent
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> core
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> db
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> ec
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> find
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> id
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> insert
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> map
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> models
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> name
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> nameValue2Producer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> one
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> package
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> password
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> queryById
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> queryLogin
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> reactivemongo
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> stringify
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> userEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> &&
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ==
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> AbstractFunction2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ClassManifestFactory
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> DefaultJsonProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> None
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Predef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Product
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ScalaRunTime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> Serializable
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> String
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> StringJsonFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> User
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> UserFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> UserProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> _hashCode
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> _toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> asInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> classType
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> eq
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> isInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> json
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> jsonFormat2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> models
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> name
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> password
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> reflect
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> runtime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> spray
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> typedProductIterator
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> ||
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> &&
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ->
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> <init>
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ==
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> AnyRef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocument
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocumentReader
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONDocumentWriter
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectID
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectIDIdentity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONObjectIdProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> BSONStringHandler
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ClassManifestFactory
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> DefaultJsonProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> EntityFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> JsString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> JsValue
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> None
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Predef
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Producer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Product
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> RootJsonFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ScalaRunTime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> Serializable
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> String
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> StringJsonFormat
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> User
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityBSONReader
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityBSONWriter
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> UserEntityProtocol
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> _hashCode
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> _toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> akka
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> apply
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> asInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> bson
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> classType
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> com
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> deserializationError
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> doc
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> eq
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> generate
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> get
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> getAs
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> id
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> isInstanceOf
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> json
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> jsonFormat3
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> models
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> name
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> nameValue2Producer
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> obj
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> package
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> packt
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> parse
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> password
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> reactivemongo
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> reflect
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> runtime
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> scala
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> spray
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> stringify
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> toString
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> typedProductIterator
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> user
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> userEntity
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> util
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> validId
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> value
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$1
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$2
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> x$3
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> ||
+product stamps:
+43 items
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$2.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$$anonfun$3.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api$delayedInit$body.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/Api.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$1.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$5.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10$$anonfun$apply$11.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1$$anonfun$apply$8.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$$anonfun$1.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi$class.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/RestApi.class -> lastModified(1458550037000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created$.class -> lastModified(1458547510000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Created.class -> lastModified(1458547510000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/GetUserById$.class -> lastModified(1458547510000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/GetUserById.class -> lastModified(1458547510000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Login$.class -> lastModified(1458547511000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/Login.class -> lastModified(1458547511000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB$.class -> lastModified(1458498148000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/MongoDB.class -> lastModified(1458498148000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$$anonfun$save$1.class -> lastModified(1458547511000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager$.class -> lastModified(1458547511000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/db/UserManager.class -> lastModified(1458547511000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/User$.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/User.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONReader$.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity$UserEntityBSONWriter$.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntity.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$$anonfun$1.class -> lastModified(1458508204000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$.class -> lastModified(1458508204000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol$BSONObjectIdProtocol$.class -> lastModified(1458508204000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserEntityProtocol.class -> lastModified(1458508203000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$$anonfun$1.class -> lastModified(1458508204000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol$.class -> lastModified(1458508204000)
+/home/mazzika/Documents/akka-examples/rest-api/target/scala-2.11/classes/com/packt/akka/models/UserProtocol.class -> lastModified(1458508204000)
+source stamps:
+6 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> hash(af19cd5f1e099b916eb47ca690d2a20df34791be)
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> hash(9aac130a1d2931bb62fc3f5af7d49f64aeafba3c)
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> hash(c927d87a779f056aa49164e50e90e9a22457c586)
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> hash(b2ba74a97f40a27c17d248a7e5c2153a99efe6cf)
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> hash(f940b71bceca03966510b3713b2fc5c50fd46d09)
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> hash(a2c8bdd42d5114b6d1482bcda17591c1bafe32c4)
+binary stamps:
+11 items
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> lastModified(1436444009000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> lastModified(1436985152000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar -> lastModified(1436985151000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar -> lastModified(1437028517000)
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> lastModified(1436962609000)
+/home/mazzika/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042440000)
+/home/mazzika/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar -> lastModified(1414500180000)
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar -> lastModified(1441427991000)
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar -> lastModified(1441427989000)
+/home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar -> lastModified(1448074043000)
+class names:
+11 items
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar -> akka.actor.ActorSystem$
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0.jar -> akka.http.scaladsl.Http
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0.jar -> akka.http.scaladsl.unmarshalling.Unmarshal
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-http-spray-json-experimental_2.11/jars/akka-http-spray-json-experimental_2.11-1.0.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar -> akka.stream.ActorMaterializer
+/home/mazzika/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/home/mazzika/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.1.jar -> spray.json.DefaultJsonProtocol$
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo-bson_2.11/jars/reactivemongo-bson_2.11-0.11.7.jar -> reactivemongo.bson.BSONObjectID$
+/home/mazzika/.ivy2/cache/org.reactivemongo/reactivemongo_2.11/jars/reactivemongo_2.11-0.11.7.jar -> reactivemongo.api.collections.bson.package$
+/home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.65-3.b17.el7.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBzlyKXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9X3K13QADG1hdGVyaWFsaXplcnNxAH4AC9Sj4N90AAJlY3NxAH4ACxAB+9h0AAZzeXN0ZW11cQB+AAkAAAAcc3EAfgALy6SSrXQABm5vdGlmeXNxAH4ACy/2yfx0AAR3YWl0c3EAfgALS78XnHQADSRhc0luc3RhbmNlT2ZzcQB+AAtijUCkdAAGZXF1YWxzc3EAfgALMbrzKnQADGFzSW5zdGFuY2VPZnNxAH4ACxD3gGV0AA5leGVjdXRpb25TdGFydHNxAH4AC4liG2l0AAxzeW5jaHJvbml6ZWRzcQB+AAvVq9zPdAANJGlzSW5zdGFuY2VPZnNxAH4AC6BCPBJ0AAdSZXN0QXBpc3EAfgALqwQ9gnQABG1haW5zcQB+AAs5b0UpdAAJbm90aWZ5QWxsc3EAfgAL0SQFG3QADGlzSW5zdGFuY2VPZnNxAH4AC5x55Ch0AAI9PXNxAH4ACyMcGFF0AA1iaW5kaW5nRnV0dXJlc3EAfgALcdBYs3QABWNsb25lc3EAfgALXdUSj3QABiRpbml0JHNxAH4AC/H17KJ0AAh0b1N0cmluZ3NxAH4AC14d6kd0AARhcmdzc3EAfgALHDtMgXQAAiE9c3EAfgALw+MAwnQABXJvdXRlc3EAfgALEDgTBnQACGdldENsYXNzc3EAfgALei5nnHQAA0FwaXNxAH4ACxjFolp0AAJuZXNxAH4AC9rP9xl0AAJlcXNxAH4AC6Gae/90AAtkZWxheWVkSW5pdHNxAH4AC3fgKuZ0AAIjI3NxAH4AC28n4fN0AAhmaW5hbGl6ZXNxAH4ACx9i/sp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABZjb20ucGFja3QuYWtrYS5SZXN0QXBpdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cQB+AFAAAAAAcHNxAH4AbQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI1zcQB+AIB0AANBbnlzcQB+AIRzcQB+AId1cQB+AIoAAAACc3EAfgCMdAAFc2NhbGFxAH4Ak3Bwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAEmNvbS5wYWNrdC5ha2thLkFwaXVxAH4AZQAAAAB+cQB+AGd0AAZNb2R1bGV1cQB+AGsAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgBtAXEAfgB1cHNxAH4AbQFzcQB+AHdzcQB+AG0BdXEAfgBQAAAAAHBzcQB+AG0BdXEAfgBQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBWcQB+AF91cQB+AGAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCteHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AgHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAAnNxAH4AjHEAfgCacQB+AJNzcQB+AGIAcQB+ACd1cQB+AGUAAAAAc3EAfgCAdAAEVW5pdHEAfgC8dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4ArXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AaHQABVBsYWlucQB+ADdzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHNzcQB+AIB0AAVBcnJheXEAfgC8dXEAfgB+AAAAAXNxAH4AgHQABlN0cmluZ3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIxxAH4Aj3NxAH4AjHEAfgCRcQB+AJNwc3EAfgBtAXVxAH4AfgAAAAVzcQB+AIB0AAdSZXN0QXBpc3EAfgCEc3EAfgCHdXEAfgCKAAAABHNxAH4AjHQAA2NvbXNxAH4AjHQABXBhY2t0c3EAfgCMdAAEYWtrYXEAfgCTc3EAfgCAdAADQXBwcQB+ALxzcQB+AIB0AAtEZWxheWVkSW5pdHEAfgC8c3EAfgCAcQB+AINxAH4A2XNxAH4AgHEAfgCVcQB+ALxwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACWNvbS5wYWNrdHNxAH4A83QADmNvbS5wYWNrdC5ha2thc3EAfgDzdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTmFtBinVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEgvaG9tZS9tYXp6aWthL0RvY3VtZW50cy9ha2thLWV4YW1wbGVzL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSvGc1fHgmbkW60fKaQ0qIN80eRvg==
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD00hy/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDSMwt50AAZub3RpZnlzcQB+AAzPKZ8edAAEd2FpdHNxAH4ADNc2n8J0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADLa0Gnh0AAdDcmVhdGVkc3EAfgAMbBHrEHQADSRhc0luc3RhbmNlT2ZzcQB+AAwwtRa4dAAMcHJvZHVjdEFyaXR5c3EAfgAM91bv1XQABmVxdWFsc3NxAH4ADJg16FN0AAh1c2VybmFtZXNxAH4ADFBOVv90AAxhc0luc3RhbmNlT2ZzcQB+AAzvahN1dAAMc3luY2hyb25pemVkc3EAfgAMwtY3cHQADSRpc0luc3RhbmNlT2ZzcQB+AAw2oDGCdAAIY2FuRXF1YWxzcQB+AAyyxvucdAANcHJvZHVjdFByZWZpeHNxAH4ADAaRceZ0AAlub3RpZnlBbGxzcQB+AAw271cudAAMaXNJbnN0YW5jZU9mc3EAfgAMFUcxM3QAC0dldFVzZXJCeUlkc3EAfgAMN/PKj3QABUxvZ2luc3EAfgAM97H663QABjxpbml0PnNxAH4ADOXbgxh0AAJpZHNxAH4ADPPcOg50AAI9PXNxAH4ADE0IiS10AAVjbG9uZXNxAH4ADHQrdFl0AARjb3B5c3EAfgAM9qxfhHQACHRvU3RyaW5nc3EAfgAMy6P+b3QAAiE9c3EAfgAMvYsu/HQACGdldENsYXNzc3EAfgAMAuk/BHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMerQdc3QAAm5lc3EAfgAM0DwMTHQAAmVxc3EAfgAMTd+DnHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNUwqK50AAIjI3NxAH4ADCCOp6R0AAhmaW5hbGl6ZXNxAH4ADAbN2tt0AA5wcm9kdWN0RWxlbWVudHNxAH4ADEPRQHF0AAhoYXNoQ29kZXNxAH4ADIFqTl90AAhwYXNzd29yZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AB1jb20ucGFja3QuYWtrYS5kYi5HZXRVc2VyQnlJZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcwBwc3EAfgB4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AfHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQAAmlvcQB+AJ1zcQB+AIx0AAdQcm9kdWN0cQB+AJJzcQB+AIx0AAZFcXVhbHNxAH4AknNxAH4AjHQABk9iamVjdHNxAH4AkHNxAH4Ak3VxAH4AlgAAAANzcQB+AJhxAH4Ao3NxAH4AmHQABGxhbmdxAH4AnXNxAH4AjHQAA0FueXEAfgCSc3EAfgBYcQB+AGV1cQB+AGYAAAAAc3EAfgBoAHQAGWNvbS5wYWNrdC5ha2thLmRiLkNyZWF0ZWR1cQB+AGsAAAAAcQB+AG91cQB+AHEAAAAAc3EAfgBzAHBzcQB+AHhxAH4AfXNxAH4AcwBwc3EAfgB4c3EAfgCAc3EAfgBzAHBzcQB+AHh1cQB+AFYAAAAAc3EAfgBzAHBzcQB+AHh1cQB+AFYAAAAAc3EAfgBzAHBzcQB+AHh1cQB+AIoAAAAGc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYcQB+AJtxAH4AnXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYdAACaW9xAH4AnXNxAH4AjHEAfgCncQB+AMlzcQB+AIx0AAZFcXVhbHNxAH4AyXNxAH4AjHEAfgCrc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYcQB+ALFxAH4AnXNxAH4AjHEAfgCzcQB+AMlzcQB+AFhxAH4AZXVxAH4AZgAAAABzcQB+AGgAdAAXY29tLnBhY2t0LmFra2EuZGIuTG9naW51cQB+AGsAAAAAcQB+AG91cQB+AHEAAAAAc3EAfgBzAHBzcQB+AHhxAH4AfXNxAH4AcwBwc3EAfgB4c3EAfgCAc3EAfgBzAHBzcQB+AHh1cQB+AFYAAAAAc3EAfgBzAHBzcQB+AHh1cQB+AFYAAAAAc3EAfgBzAHBzcQB+AHh1cQB+AIoAAAAGc3EAfgCMcQB+AI9zcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYcQB+AJtxAH4AnXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYdAACaW9xAH4AnXNxAH4AjHEAfgCncQB+APNzcQB+AIx0AAZFcXVhbHNxAH4A83NxAH4AjHEAfgCrc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHEAfgCjc3EAfgCYcQB+ALFxAH4AnXNxAH4AjHEAfgCzcQB+APN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAljb20ucGFja3RzcQB+AQp0AA5jb20ucGFja3QuYWtrYXNxAH4BCnQAA2NvbXNxAH4BCnQAEWNvbS5wYWNrdC5ha2thLmRic3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTmDSwM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEgvaG9tZS9tYXp6aWthL0RvY3VtZW50cy9ha2thLWV4YW1wbGVzL3Jlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSarBMKHSkxu2L8P1r31J9krq+6PA==
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDek2OTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOucQ7V0AAZub3RpZnlzcQB+AAwAWsKWdAAIZGF0YWJhc2VzcQB+AAzfGEordAAEd2FpdHNxAH4ADNqwBzl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMJ3fiq3QABmVxdWFsc3NxAH4ADOf1hih0AAxhc0luc3RhbmNlT2ZzcQB+AAxxkXJmdAAMc3luY2hyb25pemVkc3EAfgAMuY78hHQAAmRic3EAfgAMgKPTnHQADSRpc0luc3RhbmNlT2ZzcQB+AAxDYd+2dAAGY29uZmlnc3EAfgAMR9Vn5HQAB01vbmdvREJzcQB+AAxta+N9dAAJbm90aWZ5QWxsc3EAfgAMCVIggXQAB3NlcnZlcnNzcQB+AAzVFUS0dAAMaXNJbnN0YW5jZU9mc3EAfgAMWtTsMHQABmRyaXZlcnNxAH4ADDryUBt0AAI9PXNxAH4ADH101A50AAVjbG9uZXNxAH4ADGxW9/J0AAh0b1N0cmluZ3NxAH4ADKxmLIJ0AAIhPXNxAH4ADO5p0MN0AApjb25uZWN0aW9uc3EAfgAMF9v4jnQACGdldENsYXNzc3EAfgAMQZOYinQAAm5lc3EAfgAM8KcInnQAAmVxc3EAfgAMyuMxHXQAAiMjc3EAfgAMttCu9nQACGZpbmFsaXplc3EAfgAMGaf47nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGWNvbS5wYWNrdC5ha2thLmRiLk1vbmdvREJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AanNxAH4AYwF1cQB+AEYAAAAAcHNxAH4AYwF1cQB+AEYAAAAAcHNxAH4AYwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY29tLnBhY2t0c3EAfgCTdAAOY29tLnBhY2t0LmFra2FzcQB+AJN0AANjb21zcQB+AJN0ABFjb20ucGFja3QuYWtrYS5kYnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5VDe2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIL2hvbWUvbWF6emlrYS9Eb2N1bWVudHMvYWtrYS1leGFtcGxlcy9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUySfYenefBWqkkWTlDpDpoiRXxYY=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAjeu8fAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKwBrot0AAlxdWVyeUJ5SWRzcQB+AAww6MgbdAAGbm90aWZ5c3EAfgAMPlWnxHQABHdhaXRzcQB+AAy8N5ggdAANJGFzSW5zdGFuY2VPZnNxAH4ADGFknSZ0AApjb2xsZWN0aW9uc3EAfgAM8Tn7rHQABmVxdWFsc3NxAH4ADLLzV350AAxhc0luc3RhbmNlT2ZzcQB+AAw5xI4QdAAMc3luY2hyb25pemVkc3EAfgAMesrHDHQADSRpc0luc3RhbmNlT2ZzcQB+AAxa0AgmdAALVXNlck1hbmFnZXJzcQB+AAzPw7y+dAAJbm90aWZ5QWxsc3EAfgAMJAXY8nQADGlzSW5zdGFuY2VPZnNxAH4ADE22dFV0AAI9PXNxAH4ADPd4RQl0AAVjbG9uZXNxAH4ADJ0zUuR0AApxdWVyeUxvZ2luc3EAfgAMIe6foHQACHRvU3RyaW5nc3EAfgAMZ7MGHnQAAiE9c3EAfgAM/wEmPnQACGdldENsYXNzc3EAfgAMPNqOFHQACGZpbmRCeUlkc3EAfgAM5JzYV3QABWxvZ2luc3EAfgAM6jkNTXQABHNhdmVzcQB+AAwW1EQHdAACbmVzcQB+AAwajvoEdAACZXFzcQB+AAzhB/0ydAACIyNzcQB+AAyyaJd5dAAIZmluYWxpemVzcQB+AAzffLg+dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAdY29tLnBhY2t0LmFra2EuZGIuVXNlck1hbmFnZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBkeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjAHBzcQB+AGhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBsc3EAfgBjAHBzcQB+AGh1cQB+AEYAAAAAc3EAfgBjAHBzcQB+AGh1cQB+AEYAAAAAc3EAfgBjAHBzcQB+AGh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5wYWNrdHNxAH4AmXQADmNvbS5wYWNrdC5ha2thc3EAfgCZdAADY29tc3EAfgCZdAARY29tLnBhY2t0LmFra2EuZGJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVOYNLAzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLK6dKl/QKJ8F9JIp+XCFTqZ7+bP
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBZVBBsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpSlNYXQAClVzZXJGb3JtYXRzcQB+AAvTtCKVdAAOVW5pdEpzb25Gb3JtYXRzcQB+AAs9jOtbdAAKbGlzdEZvcm1hdHNxAH4AC/9LAxZ0AAx2ZWN0b3JGb3JtYXRzcQB+AAtYQqM/dAASUm9vdEpzT2JqZWN0Rm9ybWF0c3EAfgALlU/aZ3QAEUJvb2xlYW5Kc29uRm9ybWF0c3EAfgALVhkDjnQACXNldEZvcm1hdHNxAH4AC7W8zSp0ABFSb290SnNBcnJheUZvcm1hdHNxAH4AC7jwfmt0AA1Kc1ZhbHVlRm9ybWF0c3EAfgALyJ+9LHQADkxvbmdKc29uRm9ybWF0c3EAfgALpzFebXQADHR1cGxlMUZvcm1hdHNxAH4AC8c3VN10ABBpbmRleGVkU2VxRm9ybWF0c3EAfgALHkcQZHQADG9wdGlvbkZvcm1hdHNxAH4AC8v7WqN0AA9saW5lYXJTZXFGb3JtYXRzcQB+AAuuOgzGdAAQU3ltYm9sSnNvbkZvcm1hdHNxAH4AC5l6a550AAx0dXBsZTVGb3JtYXRzcQB+AAsC166tdAAMdHVwbGUzRm9ybWF0c3EAfgALCTxzAXQAEmltbUxpbmVhclNlcUZvcm1hdHNxAH4AC0beq2B0AAx0dXBsZTdGb3JtYXRzcQB+AAsbntlEdAAMaW1tU2V0Rm9ybWF0c3EAfgALf7JzWXQADGVpdGhlckZvcm1hdHNxAH4AC84hc8d0AA5DaGFySnNvbkZvcm1hdHNxAH4AC1jGA/B0ABRCaWdEZWNpbWFsSnNvbkZvcm1hdHNxAH4AC2gAD9p0AA9TaG9ydEpzb25Gb3JtYXRzcQB+AAvuM9gndAAMdHVwbGU2Rm9ybWF0c3EAfgAL0HHntnQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAthPFCqdAALYXJyYXlGb3JtYXRzcQB+AAsIa/8MdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAuMzxh6dAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAtT5l3ldAAMdHVwbGUyRm9ybWF0c3EAfgALZ0t76XQAE2ltbUluZGV4ZWRTZXFGb3JtYXRzcQB+AAufPAVJdAAMaW1tU2VxRm9ybWF0c3EAfgALk1qlXXQADHR1cGxlNEZvcm1hdHNxAH4AC28I3V90AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAtWWnDJdAAOaXRlcmFibGVGb3JtYXRzcQB+AAu79VqrdAANSW50SnNvbkZvcm1hdHNxAH4AC0bS+ON0ABBEb3VibGVKc29uRm9ybWF0c3EAfgALEuch0XQACW1hcEZvcm1hdHNxAH4AC8Zi7BB0AAlzZXFGb3JtYXRzcQB+AAvsbhVLdAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAEdzcQB+AAufyxEZdAAGbm90aWZ5c3EAfgALq48JnHQABHJlYWRzcQB+AAvE85OqdAAJZnJvbUZpZWxkc3EAfgALQB5nFnQAC2pzb25Gb3JtYXQ5c3EAfgALPNIXIHQADGpzb25Gb3JtYXQxNnNxAH4AC+vCK2R0AARuYW1lc3EAfgALdmxRB3QADGpzb25Gb3JtYXQyMHNxAH4AC8Trp2J0AAR3YWl0c3EAfgALxP8n2XQABnZpYVNlcXNxAH4ACydmI6p0AApsYXp5Rm9ybWF0c3EAfgAL0kXVy3QADmNvcHkkZGVmYXVsdCQyc3EAfgALLn9QMXQADSRhc0luc3RhbmNlT2ZzcQB+AAtdN8n/dAAManNvbkZvcm1hdDEyc3EAfgALUUO3YHQADGpzb25Gb3JtYXQxM3NxAH4AC6vDu490AAtqc29uRm9ybWF0MnNxAH4AC6MAtp90AAxwcm9kdWN0QXJpdHlzcQB+AAu1enLedAAGZXF1YWxzc3EAfgALm7tUNXQAC2pzb25Gb3JtYXQ2c3EAfgALW/125HQADGFzSW5zdGFuY2VPZnNxAH4ACzvqIWh0AAxqc29uRm9ybWF0MTVzcQB+AAu3udKJdAACSkZzcQB+AAsj30ZbdAAMc3luY2hyb25pemVkc3EAfgALimcH6HQADGpzb25Gb3JtYXQxMXNxAH4ACy5xAS90AA0kaXNJbnN0YW5jZU9mc3EAfgALTMShHXQAC2pzb25Gb3JtYXQ1c3EAfgALsXrIdnQADGpzb25Gb3JtYXQyMXNxAH4AC5S2MPt0ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4AC1gR6EZ0AApyb290Rm9ybWF0c3EAfgALgOfN2HQAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4AC88TJnV0AAxqc29uRm9ybWF0MTRzcQB+AAsO7fFFdAAIY2FuRXF1YWxzcQB+AAtAb+BfdAALanNvbkZvcm1hdDFzcQB+AAtgjW/sdAAOcm9vdEpzb25Gb3JtYXRzcQB+AAu2dytidAANcHJvZHVjdFByZWZpeHNxAH4AC1XGuPZ0AAxqc29uRm9ybWF0MTlzcQB+AAuTfnbidAAJbm90aWZ5QWxsc3EAfgALoGs1ZnQACGRlbGVnYXRlc3EAfgALT8GjnHQADGlzSW5zdGFuY2VPZnNxAH4AC0/nULp0AAY8aW5pdD5zcQB+AAtsHe+VdAALanNvbkZvcm1hdDRzcQB+AAvZ/IVFdAACPT1zcQB+AAvUraNxdAAFY2xvbmVzcQB+AAs7/uqfdAAManNvbkZvcm1hdDEwc3EAfgALH/QqlXQAC2pzb25Gb3JtYXQwc3EAfgAL0RZh6HQADGpzb25Gb3JtYXQyMnNxAH4ACwDZmVF0AAxPcHRpb25Gb3JtYXRzcQB+AAvociOKdAAManNvbkZvcm1hdDE4c3EAfgALMGjBp3QABFVzZXJzcQB+AAsz4660dAAEY29weXNxAH4ACxRsrk10AAh0b1N0cmluZ3NxAH4AC/rMaF10AAxVc2VyUHJvdG9jb2xzcQB+AAsy4I6hdAAKanNvbkZvcm1hdHNxAH4ACyHzFZx0AAIhPXNxAH4AC2CR7fJ0AAtqc29uRm9ybWF0OHNxAH4AC1r5hV10AAhnZXRDbGFzc3NxAH4AC3GnawZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC6Q09hB0AAJuZXNxAH4AC8UpDUR0AARsaWZ0c3EAfgALwu0BAnQAC2pzb25Gb3JtYXQzc3EAfgAL/YQrVnQAAmVxc3EAfgAL+K+QKHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC75+3Ih0AAV3cml0ZXNxAH4ACwUIk+50AApzYWZlUmVhZGVyc3EAfgALFZCZ4nQAAiMjc3EAfgALmMZ2vHQACGZpbmFsaXplc3EAfgAL1kSYUnQADnByb2R1Y3RFbGVtZW50c3EAfgALOZLyEnQACGhhc2hDb2Rlc3EAfgALAahfa3QAEWV4dHJhY3RGaWVsZE5hbWVzc3EAfgALGEnSFXQADGpzb25Gb3JtYXQxN3NxAH4AC1qbt5x0AAhwYXNzd29yZHNxAH4AC7yoJwh0AAtqc29uRm9ybWF0N3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+APV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABpjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BDnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BDQBwc3EAfgESc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+APVMAAlpbmhlcml0ZWRxAH4A9UwAB3BhcmVudHNxAH4A9XhxAH4BFnNxAH4BDQBwc3EAfgESdXEAfgDwAAAAAHNxAH4BDQBwc3EAfgESdXEAfgDwAAAAAHNxAH4BDQBwc3EAfgESdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEVdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEVc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEzc3EAfgEmcQB+ASlzcQB+ASpzcQB+AS11cQB+ATAAAAADc3EAfgEydAAEamF2YXNxAH4BMnQAAmlvcQB+ATdzcQB+ASZ0AAdQcm9kdWN0cQB+ASxzcQB+ASZ0AAZFcXVhbHNxAH4BLHNxAH4BJnQABk9iamVjdHNxAH4BKnNxAH4BLXVxAH4BMAAAAANzcQB+ATJxAH4BPXNxAH4BMnQABGxhbmdxAH4BN3NxAH4BJnQAA0FueXEAfgEsc3EAfgDycQB+AP91cQB+AQAAAAAAc3EAfgECAHQAImNvbS5wYWNrdC5ha2thLm1vZGVscy5Vc2VyUHJvdG9jb2x1cQB+AQUAAAAAfnEAfgEHdAAGTW9kdWxldXEAfgELAAAAAHNxAH4BDQBwc3EAfgEScQB+ARdzcQB+AQ0AcHNxAH4BEnNxAH4BGnNxAH4BDQBwc3EAfgESdXEAfgDwAAAAAHNxAH4BDQBwc3EAfgESdXEAfgDwAAAAAHNxAH4BDQBwc3EAfgESdXEAfgEkAAAACXNxAH4BJnQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+ASpzcQB+AS11cQB+ATAAAAADc3EAfgEydAAFc3ByYXlzcQB+ATJ0AARqc29ucQB+ATdzcQB+ASZ0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgFmc3EAfgEmdAAOUHJvZHVjdEZvcm1hdHNxAH4BZnNxAH4BJnQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AWZzcQB+ASZ0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgFmc3EAfgEmdAAPU3RhbmRhcmRGb3JtYXRzcQB+AWZzcQB+ASZ0AAxCYXNpY0Zvcm1hdHNxAH4BZnNxAH4BJnEAfgFFc3EAfgEqc3EAfgEtdXEAfgEwAAAAA3NxAH4BMnEAfgE9c3EAfgEycQB+AUtxAH4BN3NxAH4BJnEAfgFNc3EAfgEqc3EAfgEtdXEAfgEwAAAAAnNxAH4BMnEAfgE1cQB+ATd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+AYZ0ABVjb20ucGFja3QuYWtrYS5tb2RlbHNzcQB+AYZ0AA5jb20ucGFja3QuYWtrYXNxAH4BhnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5Xc6lN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABIL2hvbWUvbWF6emlrYS9Eb2N1bWVudHMvYWtrYS1leGFtcGxlcy9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+UC3G87KA5ZlELNxOy/FxQ/UbQk=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAcEAWgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjgzFdHQADlVuaXRKc29uRm9ybWF0c3EAfgALVlHAp3QACmxpc3RGb3JtYXRzcQB+AAuFJMWjdAAMdmVjdG9yRm9ybWF0c3EAfgALuz0E7XQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC7HHk990ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC0w0G7l0AAlzZXRGb3JtYXRzcQB+AAvolVl3dAARUm9vdEpzQXJyYXlGb3JtYXRzcQB+AAvAI0a/dAAUVXNlckVudGl0eUJTT05SZWFkZXJzcQB+AAvi//v0dAANSnNWYWx1ZUZvcm1hdHNxAH4AC9Ee+3V0AA5Mb25nSnNvbkZvcm1hdHNxAH4AC5GTGiZ0AAx0dXBsZTFGb3JtYXRzcQB+AAtXmF0PdAAUQlNPTk9iamVjdElkUHJvdG9jb2xzcQB+AAtY+aEddAAQaW5kZXhlZFNlcUZvcm1hdHNxAH4AC1uCV7d0AAxvcHRpb25Gb3JtYXRzcQB+AAuPDccpdAAPbGluZWFyU2VxRm9ybWF0c3EAfgAL7AGz8HQAEFN5bWJvbEpzb25Gb3JtYXRzcQB+AAtR4Pm8dAAMdHVwbGU1Rm9ybWF0c3EAfgALaYI1iXQADHR1cGxlM0Zvcm1hdHNxAH4AC8fI1+V0ABJpbW1MaW5lYXJTZXFGb3JtYXRzcQB+AAuF0VmAdAAMdHVwbGU3Rm9ybWF0c3EAfgALK1O3B3QADGltbVNldEZvcm1hdHNxAH4AC9BKy910AAxlaXRoZXJGb3JtYXRzcQB+AAvIUud8dAAOQ2hhckpzb25Gb3JtYXRzcQB+AAvkNqvldAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAuQL/JRdAAPU2hvcnRKc29uRm9ybWF0c3EAfgALp+DdfnQADEVudGl0eUZvcm1hdHNxAH4ACxfA6Bx0AAx0dXBsZTZGb3JtYXRzcQB+AAvx4RiWdAAQU3RyaW5nSnNvbkZvcm1hdHNxAH4AC2y4J+50AAthcnJheUZvcm1hdHNxAH4AC8OdThh0ABFpbW1JdGVyYWJsZUZvcm1hdHNxAH4ACyyH5+x0AA5CeXRlSnNvbkZvcm1hdHNxAH4AC3S+bHV0AAx0dXBsZTJGb3JtYXRzcQB+AAv6iqsydAATaW1tSW5kZXhlZFNlcUZvcm1hdHNxAH4AC4FYeSV0ABRVc2VyRW50aXR5QlNPTldyaXRlcnNxAH4ACz6BjEJ0AAx0b1VzZXJFbnRpdHlzcQB+AAu8QWFZdAAMaW1tU2VxRm9ybWF0c3EAfgALaUAimXQADHR1cGxlNEZvcm1hdHNxAH4ACxa/FL90AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAs+iOZSdAAOaXRlcmFibGVGb3JtYXRzcQB+AAvoKSuadAANSW50SnNvbkZvcm1hdHNxAH4AC0SttxR0ABBEb3VibGVKc29uRm9ybWF0c3EAfgAL/uELDHQACW1hcEZvcm1hdHNxAH4ACwQ8tFJ0AAlzZXFGb3JtYXRzcQB+AAtXUdZwdAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAFJzcQB+AAtAQANrdAAGbm90aWZ5c3EAfgALesirk3QABHJlYWRzcQB+AAvymxhsdAAJZnJvbUZpZWxkc3EAfgALxiN9fXQAC2pzb25Gb3JtYXQ5c3EAfgALSFUz0nQAB3VuYXBwbHlzcQB+AAt99jRldAAManNvbkZvcm1hdDE2c3EAfgALchFtE3QABG5hbWVzcQB+AAvlHhw+dAAManNvbkZvcm1hdDIwc3EAfgAL8CgW6XQABHdhaXRzcQB+AAueqDT7dAAGdmlhU2Vxc3EAfgALp4xVq3QACmxhenlGb3JtYXRzcQB+AAs63obwdAAOY29weSRkZWZhdWx0JDJzcQB+AAvGrJiidAANJGFzSW5zdGFuY2VPZnNxAH4AC0up0pV0AAxqc29uRm9ybWF0MTJzcQB+AAv9EC3xdAAManNvbkZvcm1hdDEzc3EAfgALJAoQ4HQAC2pzb25Gb3JtYXQyc3EAfgALLDfjwnQACHdyaXRlT3B0c3EAfgAL6CCPqnQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAsdIP28dAAMcHJvZHVjdEFyaXR5c3EAfgALFTLY5nQABmVxdWFsc3NxAH4AC8cGcjx0AAtqc29uRm9ybWF0NnNxAH4AC0Tv4OJ0ABJVc2VyRW50aXR5UHJvdG9jb2xzcQB+AAu4PGKzdAAMYXNJbnN0YW5jZU9mc3EAfgAL0uXJLnQADGpzb25Gb3JtYXQxNXNxAH4AC/0xyjN0AAJKRnNxAH4AC22mubd0AAxzeW5jaHJvbml6ZWRzcQB+AAsS4ubGdAAManNvbkZvcm1hdDExc3EAfgALSxr+AHQADSRpc0luc3RhbmNlT2ZzcQB+AAu6mcDLdAALanNvbkZvcm1hdDVzcQB+AAuQxIE/dAAManNvbkZvcm1hdDIxc3EAfgALEbxNLXQAFHByb2R1Y3RFbGVtZW50MkZpZWxkc3EAfgALqbBwOXQACnJvb3RGb3JtYXRzcQB+AAsomNrodAAecHJvZHVjdEVsZW1lbnQyRmllbGQkZGVmYXVsdCQ0c3EAfgALO8wH4XQADGpzb25Gb3JtYXQxNHNxAH4AC8PhfYJ0AAhjYW5FcXVhbHNxAH4AC7eQSdt0AAtqc29uRm9ybWF0MXNxAH4AC0F4/8Z0AA5yb290SnNvbkZvcm1hdHNxAH4AC0U5jlZ0AA1wcm9kdWN0UHJlZml4c3EAfgAL7RVevHQADGpzb25Gb3JtYXQxOXNxAH4AC10TmoN0AAlub3RpZnlBbGxzcQB+AAuwCk3wdAALcmVhZFJlc29sdmVzcQB+AAtujlZDdAAIZGVsZWdhdGVzcQB+AAsAvzmudAAMaXNJbnN0YW5jZU9mc3EAfgALDMOmd3QACHdyaXRlVHJ5c3EAfgALOPODM3QABjxpbml0PnNxAH4AC5D0X190AAJpZHNxAH4AC7mjiIh0AAVhcHBseXNxAH4AC5bOQ3R0AAtqc29uRm9ybWF0NHNxAH4AC6fTPDh0AAI9PXNxAH4ACwOBXpR0AAVjbG9uZXNxAH4ACxm/O7l0AAxqc29uRm9ybWF0MTBzcQB+AAvhYU74dAALanNvbkZvcm1hdDBzcQB+AAtQXkeBdAAManNvbkZvcm1hdDIyc3EAfgAL06dL0nQADE9wdGlvbkZvcm1hdHNxAH4ACxH/x+d0AAxqc29uRm9ybWF0MThzcQB+AAup61JTdAAOY29weSRkZWZhdWx0JDNzcQB+AAslh/d8dAAEY29weXNxAH4AC4yamzN0AA9hcHBseSRkZWZhdWx0JDFzcQB+AAsMAV/YdAAIdG9TdHJpbmdzcQB+AAsIYOsRdAAKanNvbkZvcm1hdHNxAH4AC/Kn3BZ0AAIhPXNxAH4ACzkrGT50AAtqc29uRm9ybWF0OHNxAH4ACyYwMR90AAhnZXRDbGFzc3NxAH4AC4ggeXR0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC4hlY6V0AAdyZWFkT3B0c3EAfgALjcePr3QAClVzZXJFbnRpdHlzcQB+AAv2m+OxdAACbmVzcQB+AAvElV6sdAAEbGlmdHNxAH4AC2aEhJN0AAtqc29uRm9ybWF0M3NxAH4ACwjSNIp0AAJlcXNxAH4AC0kHL+l0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAusWMUsdAAFd3JpdGVzcQB+AAvg/+uVdAAKc2FmZVJlYWRlcnNxAH4AC9/wQ4x0AAIjI3NxAH4AC2hw9ph0AAhmaW5hbGl6ZXNxAH4ACzcHwzt0AAdyZWFkVHJ5c3EAfgALQVxitnQADnByb2R1Y3RFbGVtZW50c3EAfgALtoljpXQACGhhc2hDb2Rlc3EAfgALHzWIZnQAEWV4dHJhY3RGaWVsZE5hbWVzc3EAfgAL0MwLDHQADGpzb25Gb3JtYXQxN3NxAH4AC6f7VP90AAhwYXNzd29yZHNxAH4AC427Bt10AAtqc29uRm9ybWF0N3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ARN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACBjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlckVudGl0eXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BLHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BKwBwc3EAfgEwc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ARNMAAlpbmhlcml0ZWRxAH4BE0wAB3BhcmVudHNxAH4BE3hxAH4BNHNxAH4BKwBwc3EAfgEwdXEAfgEOAAAAAHNxAH4BKwBwc3EAfgEwdXEAfgEOAAAAAHNxAH4BKwBwc3EAfgEwdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEzdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgFRc3EAfgFEcQB+AUdzcQB+AUhzcQB+AUt1cQB+AU4AAAADc3EAfgFQdAAEamF2YXNxAH4BUHQAAmlvcQB+AVVzcQB+AUR0AAdQcm9kdWN0cQB+AUpzcQB+AUR0AAZFcXVhbHNxAH4BSnNxAH4BRHQABk9iamVjdHNxAH4BSHNxAH4BS3VxAH4BTgAAAANzcQB+AVBxAH4BW3NxAH4BUHQABGxhbmdxAH4BVXNxAH4BRHQAA0FueXEAfgFKc3EAfgEQcQB+AR11cQB+AR4AAAAAc3EAfgEgAHQAIGNvbS5wYWNrdC5ha2thLm1vZGVscy5Vc2VyRW50aXR5dXEAfgEjAAAAAH5xAH4BJXQABk1vZHVsZXVxAH4BKQAAAABzcQB+ASsAcHNxAH4BMHEAfgE1c3EAfgErAHBzcQB+ATBzcQB+AThzcQB+ASsAcHNxAH4BMHVxAH4BDgAAAABzcQB+ASsAcHNxAH4BMHVxAH4BDgAAAABzcQB+ASsAcHNxAH4BMHVxAH4BQgAAAARzcQB+AURxAH4BR3NxAH4BSHNxAH4BS3VxAH4BTgAAAAJzcQB+AVBxAH4BU3EAfgFVc3EAfgFEcQB+AUdzcQB+AUhzcQB+AUt1cQB+AU4AAAADc3EAfgFQcQB+AVtzcQB+AVB0AAJpb3EAfgFVc3EAfgFEcQB+AWNzcQB+AUhzcQB+AUt1cQB+AU4AAAADc3EAfgFQcQB+AVtzcQB+AVBxAH4BaXEAfgFVc3EAfgFEcQB+AWtxAH4Bg3NxAH4BEHEAfgEddXEAfgEeAAAAAHNxAH4BIAB0AChjb20ucGFja3QuYWtrYS5tb2RlbHMuVXNlckVudGl0eVByb3RvY29sdXEAfgEjAAAAAHEAfgFxdXEAfgEpAAAAAHNxAH4BKwBwc3EAfgEwcQB+ATVzcQB+ASsAcHNxAH4BMHNxAH4BOHNxAH4BKwBwc3EAfgEwdXEAfgEOAAAAAHNxAH4BKwBwc3EAfgEwdXEAfgEOAAAAAHNxAH4BKwBwc3EAfgEwdXEAfgFCAAAACXNxAH4BRHQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcQB+AUhzcQB+AUt1cQB+AU4AAAADc3EAfgFQdAAFc3ByYXlzcQB+AVB0AARqc29ucQB+AVVzcQB+AUR0ABFBZGRpdGlvbmFsRm9ybWF0c3EAfgGrc3EAfgFEdAAOUHJvZHVjdEZvcm1hdHNxAH4Bq3NxAH4BRHQAF1Byb2R1Y3RGb3JtYXRzSW5zdGFuY2VzcQB+AatzcQB+AUR0ABFDb2xsZWN0aW9uRm9ybWF0c3EAfgGrc3EAfgFEdAAPU3RhbmRhcmRGb3JtYXRzcQB+AatzcQB+AUR0AAxCYXNpY0Zvcm1hdHNxAH4Bq3NxAH4BRHEAfgFjc3EAfgFIc3EAfgFLdXEAfgFOAAAAA3NxAH4BUHEAfgFbc3EAfgFQcQB+AWlxAH4BVXNxAH4BRHEAfgFrc3EAfgFIc3EAfgFLdXEAfgFOAAAAAnNxAH4BUHEAfgFTcQB+AVV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAljb20ucGFja3RzcQB+Act0ABVjb20ucGFja3QuYWtrYS5tb2RlbHNzcQB+Act0AA5jb20ucGFja3QuYWtrYXNxAH4By3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5Xc6lN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABIL2hvbWUvbWF6emlrYS9Eb2N1bWVudHMvYWtrYS1leGFtcGxlcy9yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUosi91C1RFLbRSCvNoXWRwbr+MsQ=
+external apis:
+0 items
+source infos:
+6 items
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/Api.scala -> 
+AAAAAAAAAAA=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/DBResponse.scala -> 
+AAAAAAAAAAA=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/MongoDB.scala -> 
+AAAAAAAAAAA=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/db/UserManager.scala -> 
+AAAAAAAAAAA=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/User.scala -> 
+AAAAAAAAAAA=
+/home/mazzika/Documents/akka-examples/rest-api/src/main/scala/com/packt/akka/models/UserEntity.scala -> 
+AAAAAAAAAAA=
+compilations:
+25 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5TKEYh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5UNIUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5URnxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5UcWT51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5UefSN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5UfGil1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5UiwR51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5VDe2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5Vrplt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5V7eMN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5XO/hl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5Xc6lN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5XdCN11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5XjOaV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5XmFYB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5XprQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5g0sDN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5g5ay51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hEeGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hFKFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hGjC51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hW/eJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hYrLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5haV/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU5hbQYp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9ob21lL21henppa2EvRG9jdW1lbnRzL2Fra2EtZXhhbXBsZXMvcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

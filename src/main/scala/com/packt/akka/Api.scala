@@ -14,6 +14,7 @@ import akka.http.scaladsl.unmarshalling.Unmarshal
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 import scala.concurrent.ExecutionContext
 
+
 trait RestApi {
   import UserProtocol._
   import UserEntity._
@@ -28,11 +29,11 @@ trait RestApi {
   val route =
     pathPrefix("users"){
 
+
         pathPrefix("login"){
           (post & entity(as[User])) { user =>
             complete {
               UserManager.login(user.name, user.password) map { r =>
-              //Login -> Map("name" -> r.name, "password" -> r.password).toJson
               OK -> r
               }
             }
@@ -40,9 +41,9 @@ trait RestApi {
         }~
           (get & path(Segment)) { id =>
           complete {
-            UserManager.findById(id) map { t =>
+              UserManager.findById(id) map { t =>
               OK -> t
-            }
+             }
           }
         }~
           (pathPrefix("signup")){
@@ -50,17 +51,16 @@ trait RestApi {
             complete {
                 UserManager.save(user) map { r =>
                 Created -> Map("id" -> r.id).toJson
-                //OK -> r
               }
             }
           }
-        }
-
-
-        
-
-
-        
+        }~
+          (get & path(Segment/"follow"/Segment)) { (userAId, userBId) =>
+            complete {
+              UserManager.follow(userAId, userBId)
+              Map ("status" -> " OK " ).toJson
+            }
+          }
     }
 }
 

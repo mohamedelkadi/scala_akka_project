@@ -25,8 +25,19 @@ object UserManager {
   	collection.find(queryLogin(name, password)).one[UserEntity]
 
 
+  def follow(userAId: String, userBId: String)(implicit ec: ExecutionContext) = {
+    collection.update(querySelector(userBId), queryModifierForFollower(userAId), upsert = true)
+    collection.update(querySelector(userAId), queryModifierForFollowing(userBId), upsert = true) }
+
+
   private def queryById(id: String) = BSONDocument("_id" ->  BSONObjectID(id))
 
   private def queryLogin(name: String, password: String) = BSONDocument("name" -> name, "password" -> password)
+
+  private def querySelector(id: String) = BSONDocument("_id" -> BSONObjectID(id))
+
+  private def queryModifierForFollower(id: String) = BSONDocument("$push" -> BSONDocument("followers" -> BSONObjectID(id)))
+
+  private def queryModifierForFollowing(id: String) = BSONDocument("$push" -> BSONDocument("following" -> BSONObjectID(id)))
 
 }

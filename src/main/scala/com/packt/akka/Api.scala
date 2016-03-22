@@ -49,7 +49,7 @@ trait RestApi {
           (pathPrefix("signup")){
           (post & entity(as[User])) { user =>
             complete {
-                UserManager.save(user) map { r =>
+                UserManager.signUp(user) map { r =>
                 Created -> Map("id" -> r.id).toJson
               }
             }
@@ -60,7 +60,13 @@ trait RestApi {
               UserManager.follow(userAId, userBId)
               Map ("status" -> " OK " ).toJson
             }
-          }
+          }~
+            (get & path(Segment/"unfollow"/Segment)) { (userAId, userBId) =>
+              complete {
+                UserManager.unFollow(userAId, userBId)
+                Map ("status" -> " OK " ).toJson
+              }
+            }
     }
 }
 

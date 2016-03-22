@@ -14,7 +14,7 @@ object UserManager {
   val collection = db[BSONCollection]("users")
 
 
-  def save(userEntity: UserEntity)(implicit ec: ExecutionContext) =
+  def signUp(userEntity: UserEntity)(implicit ec: ExecutionContext) =
     collection.insert(userEntity).map(_ => Created(userEntity.id.stringify))
   
   def findById(id: String)(implicit ec: ExecutionContext) =
@@ -26,8 +26,13 @@ object UserManager {
 
 
   def follow(userAId: String, userBId: String)(implicit ec: ExecutionContext) = {
-    collection.update(querySelector(userBId), queryModifierForFollower(userAId), upsert = true)
-    collection.update(querySelector(userAId), queryModifierForFollowing(userBId), upsert = true) }
+    collection.update(querySelector(userBId), queryModifierInsertForFollower(userAId), upsert = true)
+    collection.update(querySelector(userAId), queryModifierInsertForFollowing(userBId), upsert = true) }
+
+
+  def unFollow(userAId: String, userBId: String)(implicit ec: ExecutionContext) = {
+    collection.update(querySelector(userBId), queryModifierDeleteForFollower(userAId))
+    collection.update(querySelector(userAId), queryModifierDeleteForFollowing(userBId)) }
 
 
   private def queryById(id: String) = BSONDocument("_id" ->  BSONObjectID(id))
@@ -36,8 +41,12 @@ object UserManager {
 
   private def querySelector(id: String) = BSONDocument("_id" -> BSONObjectID(id))
 
-  private def queryModifierForFollower(id: String) = BSONDocument("$push" -> BSONDocument("followers" -> BSONObjectID(id)))
+  private def queryModifierInsertForFollower(id: String) = BSONDocument("$push" -> BSONDocument("followers" -> BSONObjectID(id)))
 
-  private def queryModifierForFollowing(id: String) = BSONDocument("$push" -> BSONDocument("following" -> BSONObjectID(id)))
+  private def queryModifierInsertForFollowing(id: String) = BSONDocument("$push" -> BSONDocument("following" -> BSONObjectID(id)))
+
+  private def queryModifierDeleteForFollower(id: String) = BSONDocument("$pop" -> BSONDocument("followers" -> BSONObjectID(id)))
+
+  private def queryModifierDeleteForFollowing(id: String) = BSONDocument("$pop" -> BSONDocument("following" -> BSONObjectID(id)))
 
 }

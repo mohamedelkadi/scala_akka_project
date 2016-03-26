@@ -15,7 +15,7 @@ import com.packt.akka.db.TweetManger
 import akka.http.scaladsl.unmarshalling.Unmarshal
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 import scala.concurrent.ExecutionContext
-
+import TweetProtocol.TweetFormat
 
 trait RestApi {
 
@@ -75,15 +75,28 @@ trait RestApi {
       pathPrefix("tweets") {
         (get & path(Segment)) {
           id => complete {
-            TweetManger.findById(id.toInt) map{
-              r=>OK->r
+            TweetManger.findById(id.toInt) map {
+              r => OK -> r
             }
           }
 
-        }~
-        post{
+        } ~
+          (delete & path(Segment)) {
+            id => complete {
+              TweetManger.delete(id.toInt)
+              OK -> "deleted"
 
-        }
+            }
+
+          } ~
+          (post & entity(as[Tweet])) {
+            tweet => complete {
+              println(tweet)
+              TweetManger.add(tweet)
+              OK -> "done"
+            }
+
+          }
 
       }
 }

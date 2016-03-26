@@ -10,11 +10,14 @@ project/boot/
 project/plugins/project/
 
 # Scala-IDE specific
+.idea/workspace.xml
 .scala_dependencies
-.project
+.project/
+project/
 .classpath
 */.idea
-.idea/
+.idea/*
+.idea
 # Sublime
 *.sublime-workspace
 

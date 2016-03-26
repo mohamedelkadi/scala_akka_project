@@ -4,10 +4,10 @@ import spray.json._
 import scala.util._
 import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader, BSONObjectID}
 
-case class TweetEntity(_id: BSONObjectID = BSONObjectID.generate,
-                       id:Int,
+case class TweetEntity(id:Int,
                        author_id: Int,
-                      content: String)
+                      content: String,
+                       _id: BSONObjectID = BSONObjectID.generate)
 
 object TweetEntity{
   implicit def toTweetEntity(tweet: Tweet) =
@@ -30,6 +30,7 @@ object TweetEntity{
     def write(tweetEntity: TweetEntity): BSONDocument =
       BSONDocument(
         "_id" -> tweetEntity._id,
+        "id"->tweetEntity.id,
         "author_id" -> tweetEntity.author_id,
         "content" -> tweetEntity.content
       )

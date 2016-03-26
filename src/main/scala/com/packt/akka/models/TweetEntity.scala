@@ -4,37 +4,40 @@ import spray.json._
 import scala.util._
 import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader, BSONObjectID}
 
-case class TweetEntity(id: BSONObjectID = BSONObjectID.generate,
-                       user_id: String,
+case class TweetEntity(_id: BSONObjectID = BSONObjectID.generate,
+                       id:Int,
+                       author_id: Int,
                       content: String)
 
 object TweetEntity{
   implicit def toTweetEntity(tweet: Tweet) =
-    TweetEntity( user_id=tweet.user_id, content = tweet.content)
+    TweetEntity(id=tweet.id, author_id=tweet.author_id, content = tweet.content)
 
 
   implicit object TweetEntityBSONReader extends BSONDocumentReader[TweetEntity] {
     
-    def read(doc: BSONDocument): TweetEntity =
+    def read(doc: BSONDocument): TweetEntity ={
       TweetEntity(
-        id = doc.getAs[BSONObjectID]("_id").get,
-        user_id = doc.getAs[String]("user_id").get,
-        content = doc.getAs[String]("content").get
+        _id = doc.getAs[BSONObjectID]("_id").getOrElse(BSONObjectID.generate),
+        id = doc.getAs[Int]("id").getOrElse(0),
+        author_id = doc.getAs[Int]("author_id").getOrElse(0),
+        content = doc.getAs[String]("content").getOrElse("not found")
       )
+    }
   }
 
   implicit object TweetEntityBSONWriter extends BSONDocumentWriter[TweetEntity] {
     def write(tweetEntity: TweetEntity): BSONDocument =
       BSONDocument(
-        "_id" -> tweetEntity.id,
-        "user_id" -> tweetEntity.user_id,
+        "_id" -> tweetEntity._id,
+        "author_id" -> tweetEntity.author_id,
         "content" -> tweetEntity.content
       )
   }
 
 }
 
-object tweetEntityProtocol extends DefaultJsonProtocol {
+object TweetEntityProtocol extends DefaultJsonProtocol {
 
   implicit object BSONObjectIdProtocol extends RootJsonFormat[BSONObjectID] {
 
@@ -49,5 +52,5 @@ object tweetEntityProtocol extends DefaultJsonProtocol {
     }
   }
 
-  implicit val EntityFormat = jsonFormat3(UserEntity.apply)
+  implicit val EntityFormat2 = jsonFormat4(TweetEntity.apply)
 }

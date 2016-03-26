@@ -1,7 +1,32 @@
-###########################folders################
-/target
-/project
-/.idea
-###########################files###################
-*.class
+ass
+*.log
 
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.project
+.classpath
+*/.idea
+.idea/
+# Sublime
+*.sublime-workspace
+
+.DS_store
+*/.DS_store
+
+.history
+
+#othetr
+
+*.class
+project/
+target/ 
+
+target/scala-2.11/classes/com/packt/akka/RestApi.class

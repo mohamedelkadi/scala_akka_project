@@ -1,23 +1,27 @@
 package com.packt.akka
 
+import reactivemongo.bson.BSONObjectID
 import spray.json._
 import DefaultJsonProtocol._
 import akka.actor.ActorSystem
 import scala.concurrent.Future
-import akka.stream.{ ActorMaterializer, Materializer }
+import akka.stream.{ActorMaterializer, Materializer}
 import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Directives._
 import com.packt.akka.models._
 import akka.http.scaladsl.model.StatusCodes._
 import com.packt.akka.db.UserManager
+import com.packt.akka.db.TweetManger
 import akka.http.scaladsl.unmarshalling.Unmarshal
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._
 import scala.concurrent.ExecutionContext
 
 
 trait RestApi {
+
   import UserProtocol._
   import UserEntity._
+  import TweetEntityProtocol.EntityFormat2
   import UserEntityProtocol.EntityFormat
 
   implicit val system: ActorSystem
@@ -27,47 +31,61 @@ trait RestApi {
   implicit val ec: ExecutionContext
 
   val route =
-    pathPrefix("users"){
+    pathPrefix("users") {
 
 
-        pathPrefix("login"){
-          (post & entity(as[User])) { user =>
-            complete {
-              UserManager.login(user.name, user.password) map { r =>
+      pathPrefix("login") {
+        (post & entity(as[User])) { user =>
+          complete {
+            UserManager.login(user.name, user.password) map { r =>
               OK -> r
-              }
             }
           }
-        }~
-          (get & path(Segment)) { id =>
+        }
+      } ~
+        (get & path(Segment)) { id =>
           complete {
-              UserManager.findById(id) map { t =>
+            UserManager.findById(id) map { t =>
               OK -> t
-             }
+            }
           }
-        }~
-          (pathPrefix("signup")){
+        } ~
+        (pathPrefix("signup")) {
           (post & entity(as[User])) { user =>
             complete {
-                UserManager.signUp(user) map { r =>
+              UserManager.signUp(user) map { r =>
                 Created -> Map("id" -> r.id).toJson
               }
             }
           }
+        } ~
+        (get & path(Segment / "follow" / Segment)) { (userAId, userBId) =>
+          complete {
+            UserManager.follow(userAId, userBId)
+            Map("status" -> " OK ").toJson
+          }
+        } ~
+        (get & path(Segment / "unfollow" / Segment)) { (userAId, userBId) =>
+          complete {
+            UserManager.unFollow(userAId, userBId)
+            Map("status" -> " OK ").toJson
+          }
+        }
+    } ~
+      pathPrefix("tweets") {
+        (get & path(Segment)) {
+          id => complete {
+            TweetManger.findById(id.toInt) map{
+              r=>OK->r
+            }
+          }
+
         }~
-          (get & path(Segment/"follow"/Segment)) { (userAId, userBId) =>
-            complete {
-              UserManager.follow(userAId, userBId)
-              Map ("status" -> " OK " ).toJson
-            }
-          }~
-            (get & path(Segment/"unfollow"/Segment)) { (userAId, userBId) =>
-              complete {
-                UserManager.unFollow(userAId, userBId)
-                Map ("status" -> " OK " ).toJson
-              }
-            }
-    }
+        post{
+
+        }
+
+      }
 }
 
 object Api extends App with RestApi {
@@ -77,14 +95,14 @@ object Api extends App with RestApi {
   override implicit val materializer = ActorMaterializer()
 
   override implicit val ec = system.dispatcher
- 
+
   val bindingFuture = Http().bindAndHandle(route, "localhost", 8080)
- 
+
   println(s"Server online at http://localhost:8080/\nPress RETURN to stop...")
   Console.readLine()
- 
+
   bindingFuture
-    .flatMap(_.unbind()) 
-    .onComplete(_ => system.shutdown()) 
+    .flatMap(_.unbind())
+    .onComplete(_ => system.shutdown())
 
 }

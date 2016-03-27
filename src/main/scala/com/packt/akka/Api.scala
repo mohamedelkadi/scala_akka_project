@@ -73,6 +73,13 @@ trait RestApi {
         }
     } ~
       pathPrefix("tweets") {
+        (get){
+          complete{
+            TweetManger.findList(1).map{
+              r=>OK->r.toJson
+            }
+          }
+        }~
         (get & path(Segment)) {
           id => complete {
             TweetManger.findById(id.toInt) map {

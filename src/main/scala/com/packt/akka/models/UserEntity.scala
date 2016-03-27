@@ -7,8 +7,9 @@ import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader,
 case class UserEntity(id: BSONObjectID = BSONObjectID.generate,
                       name: String,
                       password: String,
-                      following:List[BSONObjectID]=List(),
-                      followers:List[BSONObjectID]=List())
+                      following:Option[List[String]]=Option(List("")),
+                      followers:Option[List[String]]=Option(List(""))
+                      )
 
 object UserEntity {
   implicit def toUserEntity(user: User) = 
@@ -24,7 +25,9 @@ object UserEntity {
       UserEntity(
         id = doc.getAs[BSONObjectID]("_id").get,
         name = doc.getAs[String]("name").getOrElse("Null"),
-        password = doc.getAs[String]("password").getOrElse("Null")
+        password = doc.getAs[String]("password").getOrElse("Null"),
+        following = doc.getAs[List[String]]("following"),
+        followers = doc.getAs[List[String]]("followers")
 
       )
   }
@@ -34,7 +37,9 @@ object UserEntity {
       BSONDocument(
         "_id" -> userEntity.id,
         "name" -> userEntity.name,
-        "password" -> userEntity.password
+        "password" -> userEntity.password,
+        "followers"-> userEntity.followers,
+        "following"-> userEntity.following
       )
   }
 

@@ -65,9 +65,11 @@ trait RestApi {
         (pathPrefix("signup")) {
           (post & entity(as[User])) { user =>
             complete {
-              UserManager.signUp(user) map { r =>
-                Created -> Map("id" -> r.id).toJson
-              }
+              UserManager.signUp(user)
+              //map { r =>
+               // Created -> Map("id" -> r.id).toJson
+                Created ->"ok"
+              //}
             }
           }
         } ~
@@ -85,13 +87,13 @@ trait RestApi {
         }
     } ~
       pathPrefix("tweets") {
-        (get) {
-          complete {
-            TweetManger.findList("").map {
-              r => OK -> r.toJson
-            }
-          }
-        } ~
+//        (get) {
+//          complete {
+//            TweetManger.findList("").map {
+//              r => OK -> r.toJson
+//            }
+//          }
+//        } ~
           (get & path(Segment)) {
             id => complete {
               TweetManger.findById(id.toInt) map {

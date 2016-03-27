@@ -1,7 +1,7 @@
 [0m[[0minfo[0m] [0mRunning com.packt.akka.Api [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/mazzika/Documents/scala project/scala_akka_project/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/mazzika/Work Shops/el2ady project/scala_akka_project/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/home/mazzika/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
 [0m[[0mdebug[0m] [0m	/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/mazzika/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.12.jar[0m
@@ -44,8 +44,8 @@ java.io.IOException: Input/output error
 	at scala.io.StdIn$class.readLine(StdIn.scala:18)
 	at scala.io.StdIn$.readLine(StdIn.scala:229)
 	at scala.DeprecatedConsole.readLine(Console.scala:178)
-	at com.packt.akka.Api$.delayedEndpoint$com$packt$akka$Api$1(Api.scala:84)
-	at com.packt.akka.Api$delayedInit$body.apply(Api.scala:73)
+	at com.packt.akka.Api$.delayedEndpoint$com$packt$akka$Api$1(Api.scala:129)
+	at com.packt.akka.Api$delayedInit$body.apply(Api.scala:118)
 	at scala.Function0$class.apply$mcV$sp(Function0.scala:34)
 	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)
 	at scala.App$$anonfun$main$1.apply(App.scala:76)
@@ -53,7 +53,7 @@ java.io.IOException: Input/output error
 	at scala.collection.immutable.List.foreach(List.scala:381)
 	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:35)
 	at scala.App$class.main(App.scala:76)
-	at com.packt.akka.Api$.main(Api.scala:73)
+	at com.packt.akka.Api$.main(Api.scala:118)
 	at com.packt.akka.Api.main(Api.scala)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -69,4 +69,4 @@ java.io.IOException: Input/output error
 	at sbt.TrapExit$App.run(TrapExit.scala:248)
 	at java.lang.Thread.run(Thread.java:745)
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread rest-api-akka.actor.default-dispatcher-4 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread rest-api-akka.actor.default-dispatcher-79 to terminate.[0m

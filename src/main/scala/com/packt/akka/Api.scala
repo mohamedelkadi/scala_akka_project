@@ -43,16 +43,16 @@ trait RestApi {
           }
         }
       } ~
-        (get & path(Segment)) { id =>
+        (get & path(Segment)) { name =>
           complete {
-            UserManager.findById(id) map { t =>
+            UserManager.findByName(name) map { t =>
               OK -> t
             }
           }
         } ~
-        (get & path(Segment / "tweets")) { id =>
+        (get & path(Segment / "tweets")) { name =>
           complete {
-            TweetManger.findList(id).map {
+            TweetManger.findList(name).map {
               r => OK -> r.toJson
             }
           }
@@ -66,15 +66,15 @@ trait RestApi {
             }
           }
         } ~
-        (get & path(Segment / "follow" / Segment)) { (userAId, userBId) =>
+        (get & path(Segment / "follow" / Segment)) { (userAName, userBName) =>
           complete {
-            UserManager.follow(userAId, userBId)
+            UserManager.follow(userAName, userBName)
             Map("status" -> " OK ").toJson
           }
         } ~
-        (get & path(Segment / "unfollow" / Segment)) { (userAId, userBId) =>
+        (get & path(Segment / "unfollow" / Segment)) { (userAName, userBName) =>
           complete {
-            UserManager.unFollow(userAId, userBId)
+            UserManager.unFollow(userAName, userBName)
             Map("status" -> " OK ").toJson
           }
         }
@@ -82,7 +82,7 @@ trait RestApi {
       pathPrefix("tweets") {
         (get) {
           complete {
-            TweetManger.findList("56f74842bf5aef79a06505eb").map {
+            TweetManger.findList("").map {
               r => OK -> r.toJson
             }
           }
@@ -98,7 +98,7 @@ trait RestApi {
           (delete & path(Segment)) {
             id => complete {
               TweetManger.delete(id.toInt)
-              OK -> "deleted"
+              Map("status" -> " Deleted ").toJson
 
             }
 
@@ -107,7 +107,7 @@ trait RestApi {
             tweet => complete {
               println(tweet)
               TweetManger.add(tweet)
-              OK -> "done"
+              Map("status" -> " Added ").toJson
             }
 
           }

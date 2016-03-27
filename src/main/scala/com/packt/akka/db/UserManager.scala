@@ -17,36 +17,40 @@ object UserManager {
   def signUp(userEntity: UserEntity)(implicit ec: ExecutionContext) =
     collection.insert(userEntity).map(_ => Created(userEntity.id.stringify))
   
-  def findById(id: String)(implicit ec: ExecutionContext) =
-    collection.find(queryById(id)).one[UserEntity]
+  def findByName(name: String)(implicit ec: ExecutionContext) =
+    collection.find(queryById(name)).one[UserEntity]
 
 
   def login(name: String, password: String)(implicit ec: ExecutionContext) =
   	collection.find(queryLogin(name, password)).one[UserEntity]
 
 
-  def follow(userAId: String, userBId: String)(implicit ec: ExecutionContext) = {
-    collection.update(querySelector(userBId), queryModifierInsertForFollower(userAId), upsert = true)
-    collection.update(querySelector(userAId), queryModifierInsertForFollowing(userBId), upsert = true) }
+  def follow(userAName: String, userBName: String)(implicit ec: ExecutionContext) = {
+    collection.update(querySelector(userBName), queryModifierInsertForFollower(userAName), upsert = true)
+    collection.update(querySelector(userAName), queryModifierInsertForFollowing(userBName), upsert = true) }
 
 
-  def unFollow(userAId: String, userBId: String)(implicit ec: ExecutionContext) = {
-    collection.update(querySelector(userBId), queryModifierDeleteForFollower(userAId))
-    collection.update(querySelector(userAId), queryModifierDeleteForFollowing(userBId)) }
+  def unFollow(userAName: String, userBName: String)(implicit ec: ExecutionContext) = {
+    collection.update(querySelector(userBName), queryModifierDeleteForFollower(userAName))
+    collection.update(querySelector(userAName), queryModifierDeleteForFollowing(userBName)) }
+
+  // def getUserId(name: String) (implicit ec: ExecutionContext)={
+  //   collection.find(BSONDocument("name" -> name), BSONDocument("_id" -> 1)).one[UserEntity]
+  // }
 
 
-  private def queryById(id: String) = BSONDocument("_id" ->  BSONObjectID(id))
+  private def queryById(name: String) = BSONDocument("name" ->  name)
 
   private def queryLogin(name: String, password: String) = BSONDocument("name" -> name, "password" -> password)
 
-  private def querySelector(id: String) = BSONDocument("_id" -> BSONObjectID(id))
+  private def querySelector(name: String) = BSONDocument("name" -> name)
 
-  private def queryModifierInsertForFollower(id: String) = BSONDocument("$push" -> BSONDocument("followers" -> BSONObjectID(id)))
+  private def queryModifierInsertForFollower(name: String) = BSONDocument("$push" -> BSONDocument("followers" -> name))
 
-  private def queryModifierInsertForFollowing(id: String) = BSONDocument("$push" -> BSONDocument("following" -> BSONObjectID(id)))
+  private def queryModifierInsertForFollowing(name: String) = BSONDocument("$push" -> BSONDocument("following" -> name))
 
-  private def queryModifierDeleteForFollower(id: String) = BSONDocument("$pop" -> BSONDocument("followers" -> BSONObjectID(id)))
+  private def queryModifierDeleteForFollower(name: String) = BSONDocument("$pop" -> BSONDocument("followers" -> name))
 
-  private def queryModifierDeleteForFollowing(id: String) = BSONDocument("$pop" -> BSONDocument("following" -> BSONObjectID(id)))
+  private def queryModifierDeleteForFollowing(name: String) = BSONDocument("$pop" -> BSONDocument("following" -> name))
 
 }

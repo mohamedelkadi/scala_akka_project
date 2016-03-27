@@ -41,7 +41,7 @@ object TweetManger {
   : Future[List[TweetEntity]] = {
     for {
       user <- UserManager.findByName(username)
-      tweets <- getTweetsOfUserList(user.get.followers.get)
+      tweets <- getTweetsOfUserList(user.get.following.get)
 
     } yield tweets
 

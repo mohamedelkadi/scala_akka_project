@@ -32,8 +32,6 @@ trait RestApi {
 
   val route =
     pathPrefix("users") {
-
-
       pathPrefix("login") {
         (post & entity(as[User])) { user =>
           complete {
@@ -57,6 +55,13 @@ trait RestApi {
             }
           }
         } ~
+        (get & path(Segment / "home")) { id =>
+          complete {
+            TweetManger.userTimeLine(id).map {
+              r => OK -> r.toJson
+            }
+          }
+        }~
         (pathPrefix("signup")) {
           (post & entity(as[User])) { user =>
             complete {

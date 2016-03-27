@@ -6,11 +6,16 @@ import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader,
 
 case class UserEntity(id: BSONObjectID = BSONObjectID.generate,
                       name: String,
-                      password: String)
+                      password: String,
+                      following:List[BSONObjectID]=List(),
+                      followers:List[BSONObjectID]=List())
 
 object UserEntity {
   implicit def toUserEntity(user: User) = 
-    UserEntity(name = user.name, password = user.password)
+    UserEntity(
+      name = user.name,
+      password = user.password
+    )
 
 
   implicit object UserEntityBSONReader extends BSONDocumentReader[UserEntity] {
@@ -20,6 +25,7 @@ object UserEntity {
         id = doc.getAs[BSONObjectID]("_id").get,
         name = doc.getAs[String]("name").getOrElse("Null"),
         password = doc.getAs[String]("password").getOrElse("Null")
+
       )
   }
 
@@ -49,5 +55,5 @@ object UserEntityProtocol extends DefaultJsonProtocol {
     }
   }
 
-  implicit val EntityFormat = jsonFormat3(UserEntity.apply)
+  implicit val EntityFormat = jsonFormat5(UserEntity.apply)
 }

@@ -22,7 +22,7 @@ object UserManager {
 
 
   def login(name: String, password: String)(implicit ec: ExecutionContext) =
-  	collection.find(queryLogin(name, password)).one[UserEntity]
+  	collection.find(queryLogin(name, password)).one[UserEntity] 
 
 
   def follow(userAName: String, userBName: String)(implicit ec: ExecutionContext) = {

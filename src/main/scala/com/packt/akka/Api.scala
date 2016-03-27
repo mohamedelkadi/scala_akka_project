@@ -35,8 +35,15 @@ trait RestApi {
       pathPrefix("login") {
         (post & entity(as[User])) { user =>
           complete {
-            UserManager.login(user.name, user.password) map { r =>
-              OK -> r
+
+            def result(xx: Option[UserEntity]) = xx match {
+              case Some(r) => xx
+              case None    => "Not Found"
+            }
+
+            UserManager.login(user.name, user.password) map { 
+              r => println(result(r))
+              OK -> result(r)
             }
           }
         }
@@ -55,9 +62,9 @@ trait RestApi {
             }
           }
         } ~
-        (get & path(Segment / "home")) { id =>
+        (get & path(Segment / "home")) { name =>
           complete {
-            TweetManger.userTimeLine(id).map {
+            TweetManger.userTimeLine(name).map {
               r => OK -> r.toJson
             }
           }
@@ -65,11 +72,9 @@ trait RestApi {
         (pathPrefix("signup")) {
           (post & entity(as[User])) { user =>
             complete {
-              UserManager.signUp(user)
-              //map { r =>
-               // Created -> Map("id" -> r.id).toJson
-                Created ->"ok"
-              //}
+              UserManager.signUp(user) map { r =>
+                Created -> Map("id" -> r.id).toJson
+              }
             }
           }
         } ~

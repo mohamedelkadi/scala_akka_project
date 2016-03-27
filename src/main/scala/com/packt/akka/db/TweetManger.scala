@@ -36,7 +36,7 @@ object TweetManger {
 
   def userTimeLine(id:String)(implicit ec: ExecutionContext):Future[List[TweetEntity]]={
     val content = for{
-      user<-UserManager.findById(id)
+      user<-UserManager.findByName(id)
       tweets <-getTweetsOfUserList(user.get.following)
 
     } yield tweets

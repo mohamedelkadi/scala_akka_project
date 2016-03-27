@@ -50,6 +50,13 @@ trait RestApi {
             }
           }
         } ~
+        (get & path(Segment / "tweets")) { id =>
+          complete {
+            TweetManger.findList(id).map {
+              r => OK -> r.toJson
+            }
+          }
+        } ~
         (pathPrefix("signup")) {
           (post & entity(as[User])) { user =>
             complete {
@@ -73,21 +80,21 @@ trait RestApi {
         }
     } ~
       pathPrefix("tweets") {
-        (get){
-          complete{
-            TweetManger.findList(1).map{
-              r=>OK->r.toJson
+        (get) {
+          complete {
+            TweetManger.findList("56f74842bf5aef79a06505eb").map {
+              r => OK -> r.toJson
             }
           }
-        }~
-        (get & path(Segment)) {
-          id => complete {
-            TweetManger.findById(id.toInt) map {
-              r => OK -> r
-            }
-          }
-
         } ~
+          (get & path(Segment)) {
+            id => complete {
+              TweetManger.findById(id.toInt) map {
+                r => OK -> r
+              }
+            }
+
+          } ~
           (delete & path(Segment)) {
             id => complete {
               TweetManger.delete(id.toInt)

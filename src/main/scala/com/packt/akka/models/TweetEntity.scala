@@ -5,7 +5,7 @@ import scala.util._
 import reactivemongo.bson.{BSONDocumentWriter, BSONDocument, BSONDocumentReader, BSONObjectID}
 
 case class TweetEntity(id:Int,
-                       author_id: Int,
+                       author_id:String,
                       content: String,
                        _id: BSONObjectID = BSONObjectID.generate)
 
@@ -18,9 +18,9 @@ object TweetEntity{
     
     def read(doc: BSONDocument): TweetEntity ={
       TweetEntity(
-        _id = doc.getAs[BSONObjectID]("_id").getOrElse(BSONObjectID.generate),
+        _id = doc.getAs[BSONObjectID]("_id").get,
         id = doc.getAs[Int]("id").getOrElse(0),
-        author_id = doc.getAs[Int]("author_id").getOrElse(0),
+        author_id = doc.getAs[String]("author_id").getOrElse("Wrong  user info "),
         content = doc.getAs[String]("content").getOrElse("not found")
       )
     }

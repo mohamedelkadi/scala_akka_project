@@ -18,8 +18,8 @@ object UserEntity {
     def read(doc: BSONDocument): UserEntity = 
       UserEntity(
         id = doc.getAs[BSONObjectID]("_id").get,
-        name = doc.getAs[String]("name").get,
-        password = doc.getAs[String]("password").get
+        name = doc.getAs[String]("name").getOrElse("Null"),
+        password = doc.getAs[String]("password").getOrElse("Null")
       )
   }
 

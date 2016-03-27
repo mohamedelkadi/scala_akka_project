@@ -30,7 +30,7 @@ object TweetManger {
         collection.find(BSONDocument("id"->id)).one[TweetEntity]
   }
 //  return Future[List[BSONDocument]]
-  def findList(author_id:Int)(implicit ec: ExecutionContext) = {
-    collection.find(BSONDocument("Author_id"->author_id)).cursor[TweetEntity].collect[List]()
+  def findList(author_id:String)(implicit ec: ExecutionContext) = {
+    collection.find(BSONDocument("author_id"->author_id)).cursor[TweetEntity].collect[List]()
   }
 }

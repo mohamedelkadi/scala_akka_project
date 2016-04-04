@@ -32,21 +32,21 @@ trait RestApi {
 
   val route =
     pathPrefix("users") {
-      pathPrefix("login") {
-        (post & entity(as[User])) { user =>
-          complete {
 
-            def result(xx: Option[UserEntity]) = xx match {
-              case Some(r) => xx
-              case None    => "Not Found"
-            }
+          pathPrefix("login") {
+            (post & entity(as[User])) { user =>
+              complete{
 
-            UserManager.login(user.name, user.password) map { 
-              r => println(result(r))
-              OK -> result(r)
+                def result(xx: Option[UserEntity]) = xx match {
+                  case Some(r) => r
+                  case None    => "Not Found"
+                }
+                UserManager.login(user.name, user.password) map { 
+                  r => println(result(r))
+                  OK -> "done"  
+                }
+              }
             }
-          }
-        }
       } ~
         (get & path(Segment)) { name =>
           complete {
